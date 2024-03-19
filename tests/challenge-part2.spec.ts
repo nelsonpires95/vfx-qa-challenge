@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('google search for VFX Financial', async ({ page }) => {  
+test('Google search for VFX Financial', async ({ page }) => {  
   // Go to www.google.com
   await page.goto('https://www.google.com');
   
