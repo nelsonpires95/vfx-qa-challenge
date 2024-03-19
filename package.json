@@ -1,0 +1,16 @@
+{
+  "name": "vfx-qa-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nelsonpires95/vfx-qa-challenge.git",
+  "author": "Nelson Pires <nelsonpires95@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.29"
+  },
+  "scripts": {},
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
